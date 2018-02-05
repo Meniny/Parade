@@ -1,0 +1,16 @@
+PODS:
+  - Parade (1.0.0)
+
+DEPENDENCIES:
+  - Parade (from `../`)
+
+EXTERNAL SOURCES:
+  Parade:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Parade: d7988a3e0da90a5c928e9725ef3b2d3ba06d04b4
+
+PODFILE CHECKSUM: 0457e7fdcd870dc19a88d0caa2f71a5af03addf3
+
+COCOAPODS: 1.4.0
